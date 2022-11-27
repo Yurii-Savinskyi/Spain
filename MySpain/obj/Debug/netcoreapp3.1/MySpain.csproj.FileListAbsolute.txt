@@ -1,0 +1,14 @@
+D:\ЮРА\C#\tempstart\MySpain\MySpain\bin\Debug\netcoreapp3.1\MySpain.exe
+D:\ЮРА\C#\tempstart\MySpain\MySpain\bin\Debug\netcoreapp3.1\MySpain.deps.json
+D:\ЮРА\C#\tempstart\MySpain\MySpain\bin\Debug\netcoreapp3.1\MySpain.runtimeconfig.json
+D:\ЮРА\C#\tempstart\MySpain\MySpain\bin\Debug\netcoreapp3.1\MySpain.runtimeconfig.dev.json
+D:\ЮРА\C#\tempstart\MySpain\MySpain\bin\Debug\netcoreapp3.1\MySpain.dll
+D:\ЮРА\C#\tempstart\MySpain\MySpain\bin\Debug\netcoreapp3.1\MySpain.pdb
+D:\ЮРА\C#\tempstart\MySpain\MySpain\obj\Debug\netcoreapp3.1\MySpain.csproj.AssemblyReference.cache
+D:\ЮРА\C#\tempstart\MySpain\MySpain\obj\Debug\netcoreapp3.1\MySpain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЮРА\C#\tempstart\MySpain\MySpain\obj\Debug\netcoreapp3.1\MySpain.AssemblyInfoInputs.cache
+D:\ЮРА\C#\tempstart\MySpain\MySpain\obj\Debug\netcoreapp3.1\MySpain.AssemblyInfo.cs
+D:\ЮРА\C#\tempstart\MySpain\MySpain\obj\Debug\netcoreapp3.1\MySpain.csproj.CoreCompileInputs.cache
+D:\ЮРА\C#\tempstart\MySpain\MySpain\obj\Debug\netcoreapp3.1\MySpain.dll
+D:\ЮРА\C#\tempstart\MySpain\MySpain\obj\Debug\netcoreapp3.1\MySpain.pdb
+D:\ЮРА\C#\tempstart\MySpain\MySpain\obj\Debug\netcoreapp3.1\MySpain.genruntimeconfig.cache
