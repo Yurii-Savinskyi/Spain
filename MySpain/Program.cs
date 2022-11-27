@@ -8,6 +8,7 @@ namespace MySpain
         {
             Console.WriteLine("Spain ( Kingdom of Spain)");
             Console.WriteLine("Capital and largest city: Madrid");
+            Console.WriteLine("Government");
         }
     }
 }
