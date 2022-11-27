@@ -1,0 +1,14 @@
+D:\ЮРА\C#\Spain\SpainClimat\SpainClimat\bin\Debug\netcoreapp3.1\SpainClimat.exe
+D:\ЮРА\C#\Spain\SpainClimat\SpainClimat\bin\Debug\netcoreapp3.1\SpainClimat.deps.json
+D:\ЮРА\C#\Spain\SpainClimat\SpainClimat\bin\Debug\netcoreapp3.1\SpainClimat.runtimeconfig.json
+D:\ЮРА\C#\Spain\SpainClimat\SpainClimat\bin\Debug\netcoreapp3.1\SpainClimat.runtimeconfig.dev.json
+D:\ЮРА\C#\Spain\SpainClimat\SpainClimat\bin\Debug\netcoreapp3.1\SpainClimat.dll
+D:\ЮРА\C#\Spain\SpainClimat\SpainClimat\bin\Debug\netcoreapp3.1\SpainClimat.pdb
+D:\ЮРА\C#\Spain\SpainClimat\SpainClimat\obj\Debug\netcoreapp3.1\SpainClimat.csproj.AssemblyReference.cache
+D:\ЮРА\C#\Spain\SpainClimat\SpainClimat\obj\Debug\netcoreapp3.1\SpainClimat.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЮРА\C#\Spain\SpainClimat\SpainClimat\obj\Debug\netcoreapp3.1\SpainClimat.AssemblyInfoInputs.cache
+D:\ЮРА\C#\Spain\SpainClimat\SpainClimat\obj\Debug\netcoreapp3.1\SpainClimat.AssemblyInfo.cs
+D:\ЮРА\C#\Spain\SpainClimat\SpainClimat\obj\Debug\netcoreapp3.1\SpainClimat.csproj.CoreCompileInputs.cache
+D:\ЮРА\C#\Spain\SpainClimat\SpainClimat\obj\Debug\netcoreapp3.1\SpainClimat.dll
+D:\ЮРА\C#\Spain\SpainClimat\SpainClimat\obj\Debug\netcoreapp3.1\SpainClimat.pdb
+D:\ЮРА\C#\Spain\SpainClimat\SpainClimat\obj\Debug\netcoreapp3.1\SpainClimat.genruntimeconfig.cache

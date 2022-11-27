@@ -8,6 +8,7 @@ namespace SpainClimat
         {
             Console.WriteLine("The Mediterranean climate");
             Console.WriteLine("The semi-arid climate ");
+            Console.WriteLine("The oceanic climate  ");
         }
     }
 }
